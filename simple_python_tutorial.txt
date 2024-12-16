@@ -1,0 +1,17 @@
+To activate the virtual environment:
+
+Windows:
+.\env\Scripts\activate
+
+Linux: 
+source env/bin/activate
+
+to exit: 
+deactivate
+
+Installing the libs on requirements.txt:
+pip install -r requirements.txt
+
+Installing a new lib (openpyxl as example):
+
+pip install openpyxl
